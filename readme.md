@@ -21,6 +21,8 @@ To run in collab change runtime to cpu to t4 gpu
       --im_path3 16.png --sign realistic --smooth 5
    ```
 The output image can be downloaded as png format by navigating to the output directory under the Blend_realistic folder.
+## result
+<img width="1078" alt="Screenshot" src="https://github.com/MoinAshvath/VirtualTryOn/blob/main/output.png">
 
 
    
