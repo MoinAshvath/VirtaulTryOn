@@ -1,4 +1,4 @@
-To run in collab
+To run in collab change runtime to cpu to t4 gpu
 1. Clone the repository:
    ```
    !git clone https://github.com/MoinAshvath/VirtualTryOn.git
